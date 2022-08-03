@@ -27,7 +27,8 @@ def print_num():
     print(1)
     print(1 + 2)
     print(2 * 2)
-    print(3 / 2)
+    print(3 / 2)  # 1.5
+    print(int(3 / 2))  # 1
     print(3 ** 3)
 
     print(0.1 + 0.2)
