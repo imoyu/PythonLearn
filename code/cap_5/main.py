@@ -44,7 +44,7 @@ def empty_list():
     #  判断列表为空的3种方法
     #  1. if list == []
     #  2. if len(list) == 0
-    # 2. if not list:
+    #  3. if not list:
 
 
 
