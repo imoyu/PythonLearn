@@ -21,7 +21,7 @@ if __name__ == '__main__':
     message = ''
     res = ''
     while message != 'end':
-        message = input('iuput your message:')
+        message = input('input your message:')
         if message == 'end':
             continue
         res += message + '\n'
