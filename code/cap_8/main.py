@@ -84,7 +84,7 @@ if __name__ == '__main__':
     # 关键字实参
     func_1(name='mx', age=33)
     func_1(age=33, name='fs')
-    # func_1(name='xiaoming', 12) # 关键字实参不能只使用一半
+    # func_1(name='xiaoming', 12) # 使用关键字后，剩余参数都要使用关键字参数
     # func_1('xiaoming', age = 12) # 这样的可以
 
     func_2('coco')
