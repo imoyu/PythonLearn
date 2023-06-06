@@ -1,4 +1,4 @@
-from cap_9.car import Car
+from python_from_entry_to_practice.cap_9.car import Car
 
 
 # 继承类

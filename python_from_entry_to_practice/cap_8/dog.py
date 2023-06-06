@@ -1,7 +1,6 @@
 # 1. 引入整个模块
 import animal
 # 2. 引入模块的某个函数
-from animal import eat
 # 3. 重命名模块
 import animal as a
 # 4. 重命名函数
